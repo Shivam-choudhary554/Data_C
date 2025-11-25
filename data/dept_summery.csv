@@ -1,0 +1,7 @@
+department,device_id,Device_count,avg_battery,avg_storage
+Finance,DEV-00016,42,57.89,0.0
+HR,DEV-00001,46,61.49,0.0
+IT,DEV-00006,43,63.82,0.0
+Marketing,DEV-00003,46,57.09,0.0
+Operations,DEV-00002,32,57.59,0.0
+Sales,DEV-00004,41,57.56,0.0

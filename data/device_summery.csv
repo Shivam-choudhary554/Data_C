@@ -1,0 +1,251 @@
+device_id,device_name,device_type,os_version,compliance_status,battery_used,department,last_seen
+DEV-00001,Device-1,MacBook,iOS 18.1,Compliant,38.06,HR,2025-10-27
+DEV-00002,Device-2,Apple TV,tvOS 18.1,Compliant,54.58,Operations,2025-11-08
+DEV-00003,Device-3,iPad,iOS 18.2,Non-Compliant,26.95,Marketing,2025-10-25
+DEV-00004,Device-4,MacBook,tvOS 18.1,Not-Reviewed,78.95,Sales,2025-11-21
+DEV-00005,Device-5,MacBook,tvOS 18.1,Non-Compliant,45.15,Marketing,2025-11-20
+DEV-00006,Device-6,iPad,iOS 18.2,Non-Compliant,38.17,IT,2025-10-25
+DEV-00007,Device-7,MacBook,iOS 18.2,Non-Compliant,89.03,IT,2025-11-08
+DEV-00008,Device-8,iPad,iOS 18.1,Compliant,63.86,Operations,2025-11-20
+DEV-00009,Device-9,Apple TV,tvOS 18.3,Not-Reviewed,59.79,HR,2025-11-12
+DEV-00010,Device-10,MacBook,tvOS 18.1,Non-Compliant,30.07,HR,2025-11-11
+DEV-00011,Device-11,iPad,iOS 18.3,Compliant,91.81,IT,2025-11-09
+DEV-00012,Device-12,iPad,tvOS 18.3,Compliant,70.04,Marketing,2025-11-05
+DEV-00013,Device-13,MacBook,iOS 18.3,Compliant,77.11,Sales,2025-11-13
+DEV-00014,Device-14,iPad,tvOS 18.1,Not-Reviewed,96.32,HR,2025-11-09
+DEV-00015,Device-15,MacBook,iOS 18.3,Not-Reviewed,47.64,Marketing,2025-11-18
+DEV-00016,Device-16,Apple TV,tvOS 18.1,Non-Compliant,72.11,Finance,2025-11-03
+DEV-00017,Device-17,Apple TV,iOS 18.3,Non-Compliant,58.39,Finance,2025-11-12
+DEV-00018,Device-18,Apple TV,iOS 18.1,Not-Reviewed,58.05,Operations,2025-11-01
+DEV-00019,Device-19,Apple TV,tvOS 18.3,Compliant,27.35,Finance,2025-11-23
+DEV-00020,Device-20,iPad,iOS 18.3,Not-Reviewed,30.7,Operations,2025-11-09
+DEV-00021,Device-21,MacBook,iOS 18.1,Compliant,40.75,Marketing,2025-11-07
+DEV-00022,Device-22,iPad,iOS 18.1,Not-Reviewed,80.0,Operations,2025-11-12
+DEV-00023,Device-23,MacBook,tvOS 18.3,Not-Reviewed,44.42,HR,2025-11-20
+DEV-00024,Device-24,MacBook,tvOS 18.3,Compliant,69.46,Finance,2025-11-18
+DEV-00025,Device-25,Apple TV,tvOS 18.1,Compliant,61.81,Marketing,2025-11-04
+DEV-00026,Device-26,Apple TV,tvOS 18.3,Not-Reviewed,62.71,Finance,2025-11-07
+DEV-00027,Device-27,MacBook,iOS 18.1,Compliant,26.08,Marketing,2025-11-07
+DEV-00028,Device-28,MacBook,tvOS 18.3,Non-Compliant,32.84,Operations,2025-11-19
+DEV-00029,Device-29,iPad,iOS 18.2,Non-Compliant,33.33,Marketing,2025-11-09
+DEV-00030,Device-30,Apple TV,tvOS 18.3,Not-Reviewed,87.18,Sales,2025-10-29
+DEV-00031,Device-31,MacBook,tvOS 18.3,Not-Reviewed,62.03,Marketing,2025-11-09
+DEV-00032,Device-32,MacBook,iOS 18.3,Not-Reviewed,70.07,Finance,2025-11-23
+DEV-00033,Device-33,Apple TV,iOS 18.2,Compliant,38.14,Finance,2025-11-14
+DEV-00034,Device-34,iPad,iOS 18.2,Non-Compliant,31.63,HR,2025-11-15
+DEV-00035,Device-35,iPad,iOS 18.3,Not-Reviewed,53.88,HR,2025-10-26
+DEV-00036,Device-36,iPad,iOS 18.3,Not-Reviewed,68.76,HR,2025-11-03
+DEV-00037,Device-37,iPad,iOS 18.3,Compliant,34.0,Marketing,2025-10-26
+DEV-00038,Device-38,MacBook,iOS 18.2,Compliant,31.04,Operations,2025-11-06
+DEV-00039,Device-39,MacBook,iOS 18.2,Compliant,96.26,IT,2025-11-04
+DEV-00040,Device-40,Apple TV,tvOS 18.3,Not-Reviewed,53.35,HR,2025-10-27
+DEV-00041,Device-41,iPad,tvOS 18.1,Compliant,49.6,Operations,2025-10-28
+DEV-00042,Device-42,Apple TV,iOS 18.3,Non-Compliant,47.91,Sales,2025-10-30
+DEV-00043,Device-43,MacBook,iOS 18.1,Compliant,98.85,IT,2025-11-16
+DEV-00044,Device-44,MacBook,iOS 18.3,Not-Reviewed,20.14,HR,2025-11-01
+DEV-00045,Device-45,iPad,iOS 18.1,Compliant,34.2,Finance,2025-11-16
+DEV-00046,Device-46,iPad,tvOS 18.1,Not-Reviewed,44.76,Operations,2025-11-18
+DEV-00047,Device-47,MacBook,tvOS 18.1,Not-Reviewed,27.53,IT,2025-11-08
+DEV-00048,Device-48,iPad,tvOS 18.3,Non-Compliant,22.92,Operations,2025-10-27
+DEV-00049,Device-49,Apple TV,iOS 18.3,Not-Reviewed,94.12,HR,2025-10-29
+DEV-00050,Device-50,iPad,iOS 18.1,Non-Compliant,98.18,IT,2025-11-22
+DEV-00051,Device-51,iPad,iOS 18.1,Not-Reviewed,91.13,Finance,2025-11-07
+DEV-00052,Device-52,Apple TV,iOS 18.1,Not-Reviewed,55.18,Marketing,2025-11-01
+DEV-00053,Device-53,iPad,iOS 18.1,Non-Compliant,21.34,IT,2025-11-10
+DEV-00054,Device-54,iPad,tvOS 18.3,Not-Reviewed,84.51,Finance,2025-10-29
+DEV-00055,Device-55,MacBook,iOS 18.2,Non-Compliant,63.48,IT,2025-11-14
+DEV-00056,Device-56,Apple TV,iOS 18.3,Compliant,37.75,IT,2025-11-15
+DEV-00057,Device-57,MacBook,tvOS 18.3,Not-Reviewed,83.65,HR,2025-11-19
+DEV-00058,Device-58,Apple TV,tvOS 18.1,Non-Compliant,53.71,IT,2025-10-27
+DEV-00059,Device-59,Apple TV,tvOS 18.1,Compliant,54.83,Finance,2025-10-29
+DEV-00060,Device-60,Apple TV,tvOS 18.1,Non-Compliant,31.79,Marketing,2025-11-05
+DEV-00061,Device-61,Apple TV,iOS 18.1,Non-Compliant,48.52,Operations,2025-11-22
+DEV-00062,Device-62,iPad,iOS 18.2,Not-Reviewed,67.17,Operations,2025-11-19
+DEV-00063,Device-63,iPad,iOS 18.3,Compliant,39.58,Sales,2025-11-09
+DEV-00064,Device-64,Apple TV,tvOS 18.3,Compliant,38.1,Sales,2025-11-22
+DEV-00065,Device-65,iPad,iOS 18.1,Not-Reviewed,26.69,Operations,2025-11-19
+DEV-00066,Device-66,MacBook,tvOS 18.3,Non-Compliant,91.77,HR,2025-11-15
+DEV-00067,Device-67,Apple TV,tvOS 18.3,Not-Reviewed,39.7,Finance,2025-10-31
+DEV-00068,Device-68,Apple TV,iOS 18.2,Not-Reviewed,41.67,Marketing,2025-10-31
+DEV-00069,Device-69,Apple TV,iOS 18.3,Non-Compliant,82.55,Sales,2025-11-08
+DEV-00070,Device-70,Apple TV,iOS 18.2,Not-Reviewed,77.21,Marketing,2025-11-02
+DEV-00071,Device-71,MacBook,iOS 18.1,Not-Reviewed,61.59,HR,2025-10-28
+DEV-00072,Device-72,Apple TV,iOS 18.1,Non-Compliant,62.91,Sales,2025-11-13
+DEV-00073,Device-73,iPad,tvOS 18.1,Non-Compliant,57.24,Operations,2025-11-15
+DEV-00074,Device-74,MacBook,iOS 18.2,Not-Reviewed,91.72,Finance,2025-11-05
+DEV-00075,Device-75,Apple TV,iOS 18.3,Compliant,77.48,Sales,2025-11-12
+DEV-00076,Device-76,MacBook,iOS 18.3,Non-Compliant,85.77,Marketing,2025-11-18
+DEV-00077,Device-77,MacBook,tvOS 18.1,Not-Reviewed,93.1,Sales,2025-11-05
+DEV-00078,Device-78,MacBook,iOS 18.3,Compliant,28.51,Marketing,2025-10-31
+DEV-00079,Device-79,iPad,tvOS 18.3,Compliant,75.95,IT,2025-11-05
+DEV-00080,Device-80,MacBook,iOS 18.3,Compliant,82.41,Finance,2025-11-19
+DEV-00081,Device-81,iPad,iOS 18.3,Non-Compliant,93.7,Marketing,2025-10-28
+DEV-00082,Device-82,Apple TV,tvOS 18.1,Compliant,87.51,Marketing,2025-11-14
+DEV-00083,Device-83,MacBook,iOS 18.3,Not-Reviewed,79.19,IT,2025-11-02
+DEV-00084,Device-84,MacBook,iOS 18.2,Non-Compliant,50.63,Operations,2025-11-21
+DEV-00085,Device-85,Apple TV,iOS 18.3,Compliant,38.02,Sales,2025-10-26
+DEV-00086,Device-86,MacBook,iOS 18.2,Non-Compliant,79.43,Operations,2025-11-18
+DEV-00087,Device-87,iPad,iOS 18.3,Not-Reviewed,37.42,Sales,2025-11-18
+DEV-00088,Device-88,iPad,iOS 18.2,Not-Reviewed,38.02,Sales,2025-11-09
+DEV-00089,Device-89,MacBook,tvOS 18.3,Not-Reviewed,36.87,Marketing,2025-11-16
+DEV-00090,Device-90,Apple TV,tvOS 18.3,Non-Compliant,58.61,IT,2025-11-02
+DEV-00091,Device-91,MacBook,tvOS 18.1,Compliant,53.27,Sales,2025-11-21
+DEV-00092,Device-92,iPad,iOS 18.2,Non-Compliant,71.84,Operations,2025-11-10
+DEV-00093,Device-93,MacBook,iOS 18.2,Compliant,69.05,IT,2025-11-12
+DEV-00094,Device-94,MacBook,iOS 18.3,Non-Compliant,79.72,IT,2025-10-27
+DEV-00095,Device-95,Apple TV,iOS 18.2,Not-Reviewed,43.27,Finance,2025-11-20
+DEV-00096,Device-96,Apple TV,iOS 18.2,Compliant,50.56,Finance,2025-11-14
+DEV-00097,Device-97,Apple TV,tvOS 18.1,Non-Compliant,48.19,Sales,2025-10-30
+DEV-00098,Device-98,Apple TV,tvOS 18.3,Compliant,74.67,HR,2025-11-09
+DEV-00099,Device-99,iPad,tvOS 18.1,Non-Compliant,46.48,Finance,2025-11-04
+DEV-00100,Device-100,iPad,tvOS 18.3,Non-Compliant,20.41,Sales,2025-11-17
+DEV-00101,Device-101,Apple TV,iOS 18.3,Compliant,97.29,Marketing,2025-11-12
+DEV-00102,Device-102,iPad,iOS 18.1,Non-Compliant,71.38,HR,2025-11-05
+DEV-00103,Device-103,Apple TV,iOS 18.1,Compliant,50.93,IT,2025-11-07
+DEV-00104,Device-104,iPad,iOS 18.3,Not-Reviewed,68.42,IT,2025-10-31
+DEV-00105,Device-105,Apple TV,iOS 18.1,Non-Compliant,70.22,HR,2025-11-24
+DEV-00106,Device-106,iPad,iOS 18.2,Compliant,74.43,IT,2025-10-29
+DEV-00107,Device-107,iPad,iOS 18.2,Not-Reviewed,35.11,Finance,2025-11-24
+DEV-00108,Device-108,iPad,tvOS 18.3,Not-Reviewed,48.47,HR,2025-11-14
+DEV-00109,Device-109,iPad,tvOS 18.1,Not-Reviewed,36.51,Sales,2025-10-31
+DEV-00110,Device-110,Apple TV,iOS 18.2,Compliant,98.81,Sales,2025-10-31
+DEV-00111,Device-111,iPad,iOS 18.2,Non-Compliant,88.23,HR,2025-11-11
+DEV-00112,Device-112,Apple TV,iOS 18.2,Non-Compliant,32.6,Marketing,2025-11-09
+DEV-00113,Device-113,Apple TV,iOS 18.1,Not-Reviewed,52.67,Marketing,2025-11-08
+DEV-00114,Device-114,Apple TV,tvOS 18.1,Compliant,29.58,Marketing,2025-11-12
+DEV-00115,Device-115,MacBook,tvOS 18.1,Not-Reviewed,35.21,HR,2025-11-03
+DEV-00116,Device-116,MacBook,iOS 18.2,Not-Reviewed,87.48,Marketing,2025-10-31
+DEV-00117,Device-117,iPad,tvOS 18.1,Non-Compliant,68.39,Sales,2025-11-18
+DEV-00118,Device-118,Apple TV,iOS 18.1,Compliant,51.9,IT,2025-10-27
+DEV-00119,Device-119,Apple TV,tvOS 18.1,Not-Reviewed,84.52,HR,2025-11-14
+DEV-00120,Device-120,Apple TV,iOS 18.1,Not-Reviewed,92.49,IT,2025-11-17
+DEV-00121,Device-121,MacBook,iOS 18.1,Compliant,51.8,Marketing,2025-11-03
+DEV-00122,Device-122,Apple TV,iOS 18.2,Not-Reviewed,39.1,Finance,2025-11-22
+DEV-00123,Device-123,Apple TV,iOS 18.3,Not-Reviewed,71.01,IT,2025-11-04
+DEV-00124,Device-124,iPad,iOS 18.3,Not-Reviewed,63.84,Finance,2025-11-15
+DEV-00125,Device-125,iPad,tvOS 18.1,Compliant,76.28,Sales,2025-10-31
+DEV-00126,Device-126,Apple TV,iOS 18.3,Not-Reviewed,53.81,IT,2025-10-26
+DEV-00127,Device-127,iPad,iOS 18.3,Not-Reviewed,73.25,HR,2025-11-11
+DEV-00128,Device-128,MacBook,iOS 18.1,Compliant,56.71,Marketing,2025-11-03
+DEV-00129,Device-129,Apple TV,iOS 18.3,Not-Reviewed,82.1,Operations,2025-11-11
+DEV-00130,Device-130,MacBook,tvOS 18.1,Not-Reviewed,40.07,Sales,2025-11-10
+DEV-00131,Device-131,Apple TV,tvOS 18.3,Non-Compliant,88.22,Finance,2025-11-02
+DEV-00132,Device-132,MacBook,iOS 18.2,Not-Reviewed,56.22,IT,2025-11-02
+DEV-00133,Device-133,Apple TV,iOS 18.1,Compliant,72.52,IT,2025-11-18
+DEV-00134,Device-134,iPad,iOS 18.1,Non-Compliant,91.64,Sales,2025-10-25
+DEV-00135,Device-135,Apple TV,iOS 18.3,Non-Compliant,55.23,Operations,2025-11-15
+DEV-00136,Device-136,MacBook,tvOS 18.3,Non-Compliant,97.46,Marketing,2025-11-17
+DEV-00137,Device-137,MacBook,iOS 18.1,Compliant,28.89,IT,2025-11-14
+DEV-00138,Device-138,iPad,iOS 18.1,Not-Reviewed,38.93,Marketing,2025-11-16
+DEV-00139,Device-139,Apple TV,tvOS 18.3,Compliant,47.99,Finance,2025-11-03
+DEV-00140,Device-140,iPad,iOS 18.3,Compliant,44.22,Sales,2025-10-27
+DEV-00141,Device-141,Apple TV,iOS 18.3,Non-Compliant,34.92,Marketing,2025-11-08
+DEV-00142,Device-142,iPad,tvOS 18.1,Not-Reviewed,76.12,Sales,2025-11-18
+DEV-00143,Device-143,iPad,iOS 18.2,Compliant,85.64,IT,2025-11-06
+DEV-00144,Device-144,iPad,tvOS 18.1,Not-Reviewed,97.47,HR,2025-10-28
+DEV-00145,Device-145,Apple TV,tvOS 18.1,Not-Reviewed,62.59,Operations,2025-11-10
+DEV-00146,Device-146,Apple TV,tvOS 18.3,Not-Reviewed,24.8,HR,2025-11-17
+DEV-00147,Device-147,iPad,iOS 18.2,Compliant,72.18,HR,2025-10-28
+DEV-00148,Device-148,Apple TV,iOS 18.1,Non-Compliant,46.81,HR,2025-11-16
+DEV-00149,Device-149,MacBook,iOS 18.3,Not-Reviewed,40.81,HR,2025-11-19
+DEV-00150,Device-150,MacBook,iOS 18.3,Compliant,75.03,Sales,2025-11-02
+DEV-00151,Device-151,MacBook,tvOS 18.3,Non-Compliant,65.55,Sales,2025-11-23
+DEV-00152,Device-152,MacBook,iOS 18.1,Compliant,82.19,HR,2025-11-10
+DEV-00153,Device-153,MacBook,iOS 18.1,Non-Compliant,98.29,HR,2025-11-18
+DEV-00154,Device-154,Apple TV,iOS 18.3,Compliant,90.0,Operations,2025-11-12
+DEV-00155,Device-155,iPad,tvOS 18.1,Not-Reviewed,97.24,HR,2025-11-19
+DEV-00156,Device-156,MacBook,tvOS 18.3,Non-Compliant,76.75,Sales,2025-11-21
+DEV-00157,Device-157,MacBook,iOS 18.2,Non-Compliant,29.41,Finance,2025-11-12
+DEV-00158,Device-158,MacBook,iOS 18.2,Not-Reviewed,65.6,HR,2025-11-05
+DEV-00159,Device-159,Apple TV,iOS 18.1,Not-Reviewed,79.44,Finance,2025-11-15
+DEV-00160,Device-160,iPad,iOS 18.3,Not-Reviewed,64.71,IT,2025-11-13
+DEV-00161,Device-161,iPad,iOS 18.2,Non-Compliant,50.68,HR,2025-11-22
+DEV-00162,Device-162,MacBook,iOS 18.2,Not-Reviewed,65.58,HR,2025-11-15
+DEV-00163,Device-163,Apple TV,iOS 18.2,Not-Reviewed,86.24,Finance,2025-10-31
+DEV-00164,Device-164,iPad,iOS 18.1,Non-Compliant,28.83,HR,2025-11-13
+DEV-00165,Device-165,MacBook,iOS 18.2,Compliant,80.28,Operations,2025-11-01
+DEV-00166,Device-166,iPad,tvOS 18.1,Not-Reviewed,48.39,HR,2025-11-15
+DEV-00167,Device-167,iPad,iOS 18.3,Not-Reviewed,89.87,Operations,2025-11-20
+DEV-00168,Device-168,MacBook,iOS 18.1,Non-Compliant,86.13,Finance,2025-10-29
+DEV-00169,Device-169,Apple TV,iOS 18.2,Compliant,51.99,Sales,2025-11-04
+DEV-00170,Device-170,MacBook,iOS 18.3,Non-Compliant,70.64,Sales,2025-11-04
+DEV-00171,Device-171,iPad,iOS 18.2,Compliant,98.0,Finance,2025-11-05
+DEV-00172,Device-172,iPad,iOS 18.3,Non-Compliant,66.72,HR,2025-10-26
+DEV-00173,Device-173,iPad,tvOS 18.3,Non-Compliant,31.75,HR,2025-11-16
+DEV-00174,Device-174,iPad,tvOS 18.3,Non-Compliant,28.16,Sales,2025-10-26
+DEV-00175,Device-175,MacBook,iOS 18.3,Compliant,49.34,HR,2025-11-19
+DEV-00176,Device-176,iPad,tvOS 18.3,Non-Compliant,81.5,IT,2025-11-22
+DEV-00177,Device-177,Apple TV,tvOS 18.3,Compliant,54.87,Sales,2025-11-21
+DEV-00178,Device-178,Apple TV,iOS 18.3,Non-Compliant,80.05,Finance,2025-11-03
+DEV-00179,Device-179,iPad,iOS 18.1,Compliant,35.09,Sales,2025-11-08
+DEV-00180,Device-180,MacBook,iOS 18.3,Non-Compliant,23.66,IT,2025-11-02
+DEV-00181,Device-181,iPad,iOS 18.1,Not-Reviewed,98.17,Finance,2025-10-25
+DEV-00182,Device-182,MacBook,iOS 18.2,Not-Reviewed,34.13,IT,2025-11-20
+DEV-00183,Device-183,MacBook,iOS 18.3,Compliant,44.85,Sales,2025-11-19
+DEV-00184,Device-184,Apple TV,iOS 18.2,Compliant,84.79,Finance,2025-11-01
+DEV-00185,Device-185,MacBook,iOS 18.2,Not-Reviewed,93.8,IT,2025-11-11
+DEV-00186,Device-186,Apple TV,tvOS 18.3,Compliant,72.95,Sales,2025-11-08
+DEV-00187,Device-187,MacBook,iOS 18.2,Not-Reviewed,28.97,Finance,2025-11-01
+DEV-00188,Device-188,iPad,iOS 18.2,Compliant,43.81,IT,2025-10-26
+DEV-00189,Device-189,Apple TV,iOS 18.3,Not-Reviewed,81.04,HR,2025-11-10
+DEV-00190,Device-190,iPad,iOS 18.1,Not-Reviewed,50.44,HR,2025-11-10
+DEV-00191,Device-191,Apple TV,tvOS 18.1,Not-Reviewed,23.52,Operations,2025-11-02
+DEV-00192,Device-192,MacBook,iOS 18.1,Compliant,22.62,Finance,2025-11-11
+DEV-00193,Device-193,Apple TV,tvOS 18.1,Non-Compliant,96.94,Marketing,2025-11-22
+DEV-00194,Device-194,MacBook,tvOS 18.1,Non-Compliant,75.9,Finance,2025-11-14
+DEV-00195,Device-195,iPad,iOS 18.1,Compliant,34.71,Sales,2025-11-05
+DEV-00196,Device-196,Apple TV,tvOS 18.3,Compliant,57.28,HR,2025-10-27
+DEV-00197,Device-197,Apple TV,iOS 18.1,Compliant,54.08,IT,2025-11-21
+DEV-00198,Device-198,iPad,tvOS 18.1,Not-Reviewed,60.06,IT,2025-11-17
+DEV-00199,Device-199,Apple TV,tvOS 18.3,Non-Compliant,75.83,Sales,2025-11-04
+DEV-00200,Device-200,Apple TV,tvOS 18.1,Not-Reviewed,71.19,Operations,2025-10-31
+DEV-00201,Device-201,Apple TV,tvOS 18.1,Compliant,67.85,Marketing,2025-11-16
+DEV-00202,Device-202,iPad,iOS 18.1,Not-Reviewed,23.56,Finance,2025-11-02
+DEV-00203,Device-203,iPad,iOS 18.2,Non-Compliant,29.6,Sales,2025-11-09
+DEV-00204,Device-204,MacBook,tvOS 18.3,Non-Compliant,86.07,Operations,2025-10-31
+DEV-00205,Device-205,MacBook,iOS 18.1,Not-Reviewed,47.33,Marketing,2025-11-05
+DEV-00206,Device-206,iPad,tvOS 18.1,Not-Reviewed,61.2,Operations,2025-10-26
+DEV-00207,Device-207,iPad,iOS 18.1,Non-Compliant,74.75,Sales,2025-11-20
+DEV-00208,Device-208,Apple TV,iOS 18.2,Not-Reviewed,50.98,HR,2025-10-26
+DEV-00209,Device-209,iPad,iOS 18.3,Compliant,42.99,Sales,2025-11-02
+DEV-00210,Device-210,iPad,iOS 18.3,Compliant,95.04,IT,2025-11-14
+DEV-00211,Device-211,Apple TV,tvOS 18.3,Compliant,94.96,Marketing,2025-11-07
+DEV-00212,Device-212,iPad,tvOS 18.3,Not-Reviewed,54.19,IT,2025-11-18
+DEV-00213,Device-213,iPad,iOS 18.1,Non-Compliant,34.53,Marketing,2025-11-09
+DEV-00214,Device-214,Apple TV,iOS 18.3,Not-Reviewed,39.06,Marketing,2025-11-22
+DEV-00215,Device-215,Apple TV,tvOS 18.1,Not-Reviewed,47.59,Sales,2025-11-15
+DEV-00216,Device-216,iPad,iOS 18.1,Compliant,89.35,HR,2025-11-07
+DEV-00217,Device-217,MacBook,tvOS 18.3,Non-Compliant,82.28,Operations,2025-11-14
+DEV-00218,Device-218,Apple TV,iOS 18.2,Not-Reviewed,36.05,HR,2025-10-30
+DEV-00219,Device-219,MacBook,tvOS 18.1,Compliant,26.0,Finance,2025-10-30
+DEV-00220,Device-220,MacBook,tvOS 18.3,Not-Reviewed,66.79,Marketing,2025-11-09
+DEV-00221,Device-221,MacBook,tvOS 18.1,Compliant,26.48,Sales,2025-10-30
+DEV-00222,Device-222,MacBook,tvOS 18.3,Non-Compliant,81.63,Marketing,2025-11-07
+DEV-00223,Device-223,Apple TV,tvOS 18.1,Compliant,29.25,IT,2025-11-11
+DEV-00224,Device-224,Apple TV,iOS 18.1,Compliant,43.24,Finance,2025-11-04
+DEV-00225,Device-225,iPad,iOS 18.2,Non-Compliant,79.91,IT,2025-10-30
+DEV-00226,Device-226,Apple TV,iOS 18.3,Compliant,83.19,Marketing,2025-11-06
+DEV-00227,Device-227,iPad,iOS 18.3,Compliant,44.82,Operations,2025-11-06
+DEV-00228,Device-228,Apple TV,iOS 18.2,Compliant,32.19,Marketing,2025-11-22
+DEV-00229,Device-229,iPad,iOS 18.1,Compliant,29.34,Marketing,2025-10-28
+DEV-00230,Device-230,iPad,tvOS 18.3,Compliant,55.62,Finance,2025-11-09
+DEV-00231,Device-231,Apple TV,tvOS 18.3,Not-Reviewed,74.72,HR,2025-11-19
+DEV-00232,Device-232,Apple TV,iOS 18.2,Non-Compliant,36.43,Operations,2025-10-25
+DEV-00233,Device-233,MacBook,tvOS 18.1,Not-Reviewed,70.53,IT,2025-10-27
+DEV-00234,Device-234,MacBook,tvOS 18.1,Non-Compliant,84.73,Finance,2025-11-23
+DEV-00235,Device-235,iPad,tvOS 18.3,Non-Compliant,58.4,Marketing,2025-11-14
+DEV-00236,Device-236,Apple TV,iOS 18.3,Compliant,21.87,Finance,2025-11-08
+DEV-00237,Device-237,iPad,tvOS 18.3,Non-Compliant,64.58,Operations,2025-11-15
+DEV-00238,Device-238,MacBook,iOS 18.2,Compliant,61.97,Marketing,2025-11-01
+DEV-00239,Device-239,Apple TV,iOS 18.2,Non-Compliant,52.57,Marketing,2025-11-01
+DEV-00240,Device-240,iPad,iOS 18.3,Compliant,38.83,IT,2025-11-02
+DEV-00241,Device-241,iPad,iOS 18.1,Non-Compliant,34.93,Marketing,2025-10-25
+DEV-00242,Device-242,Apple TV,iOS 18.3,Non-Compliant,89.17,Marketing,2025-11-18
+DEV-00243,Device-243,MacBook,tvOS 18.1,Compliant,94.01,IT,2025-11-10
+DEV-00244,Device-244,MacBook,tvOS 18.1,Non-Compliant,42.81,Operations,2025-11-05
+DEV-00245,Device-245,Apple TV,iOS 18.1,Not-Reviewed,55.02,Finance,2025-11-07
+DEV-00246,Device-246,MacBook,iOS 18.3,Compliant,48.37,HR,2025-11-09
+DEV-00247,Device-247,iPad,iOS 18.1,Compliant,41.78,IT,2025-10-25
+DEV-00248,Device-248,iPad,iOS 18.2,Non-Compliant,26.05,Finance,2025-11-10
+DEV-00249,Device-249,iPad,iOS 18.3,Non-Compliant,89.88,Marketing,2025-11-21
+DEV-00250,Device-250,Apple TV,iOS 18.3,Non-Compliant,34.36,Finance,2025-10-30
